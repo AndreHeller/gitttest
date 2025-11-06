@@ -1,1 +1,3 @@
-SELECT 12
+SELECT 122
+from products
+where xyzc
